@@ -3,10 +3,7 @@
 
 ***Introduction/Description***
 
-> A full-stack site/app (meaning, it has backend capabilities, e.g. user logins, databases, etc.), built using React--i.e., the MERN* stack. The project has two main overarching goals: 
-
-> But it should also be able to be easily customized as an iOS & Android app.
->> *Thus, we will also use Material UI.
+> A full-stack site/app (meaning, it has backend capabilities, e.g. user logins, databases, etc.), built using React--i.e., the MERN* stack. But it should also be able to be easily customized as an iOS & Android app. *Thus, we will also use Material UI. The project has two main overarching goals: 
 
 >> 1)--To help myself--and anyone else that is interested--with learning about said (MERN) stack, and most importantly, software development/engineering in general; 
 
