@@ -11,6 +11,14 @@
 
 > Basically, this software-development project is envisioned as a more sophisticated full-stack version of the common "to-do" list code-learning project.
 
+> Basic knowledge sources, set 1:
+1) https://www.mongodb.com/mern-stack
+2) https://www.mongodb.com/languages/mern-stack-tutorial
+
+> Basic knowledge sources, set 2:
+General publicly-available information about project-management, "donated"/contributed by anyone with formal and informal--but evidence-based, theoretical, and practical project-management expertise. I for one (Seif Sekalala, Ph.D., CAPM) have a significant and ever-growing amount of knowledge in this context.
+
+Thank everyone, for your support! 🙂🙏
 
 Main and sub-categories, and work-features; i.e., these are going to be the main categories and work-features under which users can group the elements of their main projects:
 
