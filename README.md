@@ -22,16 +22,27 @@ Organizer 1: for simple(r) tasks:
 Organizer 2: for complicated errands and/or work-tasks: 
 -----------
 1)> Project Life Cycle
+
 2)> Integration
-3)> Scope?
+
+3)> Scope
+
 4)> Schedule
+
 5)> Cost
+
 6)> Quality
-7)> Resource?
+
+7)> Resource
+
 8)> Communications
+
 9)> Risk
-10)> Procurement?
+
+10)> Procurement
+
 11)> Stakeholder
+
 12)> Professional Responsibility
 
 //---------------------------------------//
