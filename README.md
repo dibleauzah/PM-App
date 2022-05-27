@@ -6,7 +6,7 @@
 > A full-stack site/app (meaning, it has backend capabilities, e.g. user logins, databases, etc.), built using React--i.e., the MERN* stack
 
 > But it should also be able to be easily customized as an iOS & Android app
->> *Material UI
+>> *As well as Material UI
 
 > Main purpose of the site/app: an open-source site/app to help project-managers and other individuals easily organize their general affairs and/or--especially--work-tasks and errands.
 
