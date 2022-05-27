@@ -57,8 +57,6 @@ Organizer 2: for complicated errands and/or work-tasks:
 //---------------------------------------//
 
 ***How-To & Progress Notes:***
-Format:
-#--> Description
 -------------------
 
 1--> Checking version via (mac [/UNIX?]) terminal:
