@@ -1,1 +1,56 @@
 # PM-App
+**Gabe-Seif Project-Management Open-Source Site/App**
+
+***Introduction/Description***
+
+> A full-stack site/app (meaning, it has backend capabilities, e.g. user logins, databases, etc.)?built using React?the?MERN*?stack
+
+> But it should also be able to be easily customized as an iOS & Android app
+>> *Material UI
+
+> Main purpose of the site/app:?an open-source site/app to help project-managers and other individuals easily organize their general affairs and/or?especially?work-tasks and errands.
+
+> Basically, a more sophisticated full-stack out ?to-do list? code-learning project
+
+> Main and sub features?i.e., these are going to be the stages under which users can group their main projects:?
+
+Main Feature 1: for simple(r) tasks:
+> Simple task list format
+
+Main Feature 2: for complicated errands and/or work-tasks:
+#--Description
+1)> Project Life Cycle
+2)> Integration
+3)> Scope?
+4)> Schedule
+5)> Cost
+6)> Quality
+7)> Resource?
+8)> Communications
+9)> Risk
+10)> Procurement?
+11)> Stakeholder
+12)> Professional Responsibility
+
+//---------------------------------------//
+
+***How-To & Progress Notes:***
+
+#--> Description
+
+1--> Checking version via (mac [/UNIX?]) terminal:
+      >> % node??version?
+
+2--> Checking version again and installing current version:
+>> nvm use 16
+>> nvm install 16
+
+3--> Create repo on GitHub
+
+//---------------------------------------//
+
+To Be Continued Gradually...
+
+XX
+
+XX
