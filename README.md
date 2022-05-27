@@ -16,6 +16,7 @@
 2) https://www.mongodb.com/languages/mern-stack-tutorial
 
 > Basic knowledge sources, set 2:
+
 General publicly-available information about project-management, "donated"/contributed by anyone with formal and informal--but evidence-based, theoretical, and practical project-management expertise. I for one (Seif Sekalala, Ph.D., CAPM) have a significant and ever-growing amount of knowledge in this context.
 
 Thank everyone, for your support! 🙂🙏
