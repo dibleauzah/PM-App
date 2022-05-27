@@ -3,22 +3,24 @@
 
 ***Introduction/Description***
 
-> A full-stack site/app (meaning, it has backend capabilities, e.g. user logins, databases, etc.)?built using React?the?MERN*?stack
+> A full-stack site/app (meaning, it has backend capabilities, e.g. user logins, databases, etc.), built using React--i.e., the MERN* stack
 
 > But it should also be able to be easily customized as an iOS & Android app
 >> *Material UI
 
-> Main purpose of the site/app:?an open-source site/app to help project-managers and other individuals easily organize their general affairs and/or?especially?work-tasks and errands.
+> Main purpose of the site/app: an open-source site/app to help project-managers and other individuals easily organize their general affairs and/or--especially--work-tasks and errands.
 
-> Basically, a more sophisticated full-stack out ?to-do list? code-learning project
+> Basically, a more sophisticated full-stack version of the common to-do list code-learning project
 
-> Main and sub features?i.e., these are going to be the stages under which users can group their main projects:?
+> Main and sub-categories, and work-features; i.e., these are going to be the main categories and work-features under which users can group the elements of their main projects:
 
-Main Feature 1: for simple(r) tasks:
+Organizer 1: for simple(r) tasks: 
+-----------
 > Simple task list format
+------------
 
-Main Feature 2: for complicated errands and/or work-tasks:
-#--Description
+Organizer 2: for complicated errands and/or work-tasks: 
+-----------
 1)> Project Life Cycle
 2)> Integration
 3)> Scope?
@@ -35,8 +37,9 @@ Main Feature 2: for complicated errands and/or work-tasks:
 //---------------------------------------//
 
 ***How-To & Progress Notes:***
-
+Format:
 #--> Description
+-------------------
 
 1--> Checking version via (mac [/UNIX?]) terminal:
       >> % node??version?
