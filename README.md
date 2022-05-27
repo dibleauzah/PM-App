@@ -1,4 +1,4 @@
-# PM-App
+# PM-App (Launched May 26 2022, to be updated regularly.)
 **Gabe-Seif Project-Management Open-Source Site/App**
 
 ***Introduction/Description***
