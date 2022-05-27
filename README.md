@@ -53,10 +53,13 @@ Format:
 -------------------
 
 1--> Checking version via (mac [/UNIX?]) terminal:
-      >> % node??version?
+
+>> % node??version?
 
 2--> Checking version again and installing current version:
+
 >> nvm use 16
+
 >> nvm install 16
 
 3--> Create repo on GitHub
